@@ -199,6 +199,9 @@ h1 em { color: #328661; font-style: normal; }
 .project-content ul { padding-left:18px; min-height:85px; }
 .project-link { display:flex; justify-content:space-between; border-top:1px solid var(--line); padding-top:18px; margin-top:22px; font-size:13px; font-weight:700; }
 .project-link span { color:#21865e; font-size:18px; }
+.project-actions .project-link { margin-top:0; padding:15px 0; }
+.project-actions .project-link:first-child { margin-top:22px; }
+.project-actions .project-doc-link { color:#32745c; }
 
 .process { background:#e6e3d9; }
 .process-grid { display:grid; grid-template-columns:repeat(4,1fr); border-top:1px solid var(--line); }

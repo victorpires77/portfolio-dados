@@ -15,3 +15,7 @@ de dados.
 
 O site foi construído em HTML, CSS e JavaScript e está preparado para publicação
 no GitHub Pages.
+
+## Documentação dos projetos
+
+- [Dashboard Clínica Médica](projetos/dashboard-clinica-medica.md)
