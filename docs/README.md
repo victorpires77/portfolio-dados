@@ -6,6 +6,7 @@ de dados.
 ## Conteúdo
 
 - Vendas e Estoque — Pet Shop
+- Dashboard Clínica Médica
 - Performance de Transportadoras
 - Compras e Performance de Fornecedores
 - People Analytics — RH e Turnover

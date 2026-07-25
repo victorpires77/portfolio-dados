@@ -116,6 +116,25 @@ h1 em { color: #328661; font-style: normal; }
 .project-number { position:absolute; right:22px; top:18px; font-family:"Manrope"; font-size:13px; opacity:.62; }
 .art-label { position:absolute; left:24px; bottom:20px; text-transform:uppercase; letter-spacing:.13em; font-size:10px; font-weight:700; }
 .pet { background:linear-gradient(135deg,#133e30,#276c50); }
+.clinic { background:linear-gradient(135deg,#123c42,#16636a); }
+.clinic-pulse {
+  width:82%; height:88px; margin:28px auto 0; position:relative;
+  border-bottom:1px solid rgba(255,255,255,.14);
+}
+.clinic-pulse::before {
+  content:""; position:absolute; inset:0;
+  background:linear-gradient(165deg,transparent 41%,#8af0c3 42% 44%,transparent 45%);
+}
+.clinic-pulse i {
+  position:absolute; width:13px; height:13px; right:18%; top:20%;
+  border-radius:50%; background:var(--lime); box-shadow:0 0 0 7px rgba(199,243,107,.13);
+}
+.clinic-metrics { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-top:22px; }
+.clinic-metrics span {
+  display:flex; flex-direction:column; gap:2px; border:1px solid rgba(255,255,255,.13);
+  background:rgba(255,255,255,.06); border-radius:9px; padding:8px; font-size:8px; color:#b9d1cf;
+}
+.clinic-metrics b { color:white; font-size:14px; }
 .art-dashboard { display:grid; grid-template-columns:1fr 1fr; gap:10px; width:70%; height:60%; margin:28px auto; transform:rotate(-3deg); }
 .art-dashboard span { border-radius:10px; background:rgba(223,245,177,.82); }
 .art-dashboard span:nth-child(2), .art-dashboard span:nth-child(3) { background:rgba(255,255,255,.15); }
