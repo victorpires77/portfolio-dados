@@ -20,4 +20,10 @@ no GitHub Pages.
 ## Documentação dos projetos
 
 - [Dashboard Clínica Médica](projetos/dashboard-clinica-medica.md)
+- [Vendas e Estoque - Pet Shop](projetos/vendas-estoque-pet-shop.md)
+- [Performance de Transportadoras](projetos/performance-transportadoras.md)
+- [Performance de Fornecedores](projetos/performance-fornecedores.md)
+- [Recursos Humanos e Turnover](projetos/rh-turnover.md)
+- [Contas a Receber](projetos/contas-a-receber.md)
+- [Fluxo de Caixa em Power BI](projetos/fluxo-de-caixa-power-bi.md)
 - [Fluxo de Caixa Automatizado em Excel e VBA](projetos/fluxo-caixa-excel-vba.md)
