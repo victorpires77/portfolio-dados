@@ -4,6 +4,8 @@ Solução desenvolvida para apoiar o controle financeiro pessoal e empresarial,
 reunindo lançamentos, indicadores, dashboards e automação em um único arquivo
 do Excel.
 
+![Capa do Fluxo de Caixa Automatizado](../assets/excel-vba-fluxo-caixa-v2.png)
+
 ## Objetivo
 
 Facilitar o registro e o acompanhamento de entradas, saídas, contas pendentes e
@@ -68,7 +70,7 @@ sem exigir a atualização manual de cada análise.
 ## Arquivos
 
 - [Baixar o modelo em Excel com VBA](../downloads/modelo-fluxo-caixa-excel-vba.xlsm)
-- [Abrir o manual de uso](../downloads/manual-fluxo-caixa-excel-vba.pdf)
+- [Abrir o manual de uso](../downloads/manual-fluxo-caixa-excel-vba-v2.pdf)
 
 ## Aviso de segurança
 
@@ -80,4 +82,3 @@ ser mantido para preservar o VBA.
 
 O projeto deve ser utilizado com dados fictícios ou com informações próprias do
 usuário. Nenhuma informação financeira real foi disponibilizada no portfólio.
-
